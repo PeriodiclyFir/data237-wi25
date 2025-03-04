@@ -175,7 +175,7 @@ Thursday - Visualization for machine learning interpretability
 
 ### Finals week
 
-**Monday, Mar 10 - Project due!**
+**Tuesday, Mar 11 - Project due!**
 
 **Friday, Mar 14 - Exercise 9 due!**
 
